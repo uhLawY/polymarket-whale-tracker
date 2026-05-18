@@ -85,7 +85,6 @@ Create a `.env` file:
 
 ```env
 DISCORD_WEBHOOK_URL=your_webhook
-RPC_ENDPOINT=your_rpc_endpoint
 POLYMARKET_API_KEY=your_api_key
 ```
 
