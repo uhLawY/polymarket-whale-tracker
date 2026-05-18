@@ -78,7 +78,7 @@ cd polymarket-whalet-tracker
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requests web3 dotenv
 ```
 
 Create a `.env` file:
