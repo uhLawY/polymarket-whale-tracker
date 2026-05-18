@@ -71,8 +71,8 @@ polymarket-whale-tracker/
 Clone the repository:
 
 ```bash
-git clone https://github.com/uhLawY/polymarket-whalet-tracker.git
-cd polymarket-whalet-tracker
+git clone https://github.com/uhLawY/polymarket-whale-tracker.git
+cd polymarket-whale-tracker
 ```
 
 Install dependencies:
@@ -84,14 +84,14 @@ pip install -r requests web3 dotenv
 Create a `.env` file:
 
 ```env
-DISCORD_WEBHOOK_URL=your_webhook
-POLYMARKET_API_KEY=your_api_key
+DISCORD_WEBHOOK_URL=Your Discord Webhook 
+ALCHEMY_URL=Your Alchemy Polygon Api Url
 ```
 
 Run the tracker:
 
 ```bash
-python main.py
+python monitor2.py
 ```
 
 ---
