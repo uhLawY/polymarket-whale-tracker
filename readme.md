@@ -48,6 +48,7 @@ Position: YES
 Volume: $42,500
 Timestamp: 2026-05-19 13:42 UTC
 ```
+<img width="671" height="607" alt="image" src="https://github.com/user-attachments/assets/0f983f16-8f06-4062-b380-dd13af1ef772" />
 
 ---
 
